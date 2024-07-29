@@ -24,8 +24,13 @@
 ![Postman](https://img.shields.io/badge/Postman-FFF?style=for-the-badge&logo=Postman&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-FFF?style=for-the-badge&logo=mysql&logoColor=black)
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F1lipeFGC&theme=transparent&bg_color=FFF&border_color=000&height=180vm&show_icons=true&icon_color=000&title_color=000&text_color=000)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=F1lipeFGC&layout=compact&bg_color=FFF&height=180vm&border_color=000&title_color=000&text_color=000)
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=F1lipeFGC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F1lipeFGC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
